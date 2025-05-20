@@ -7,7 +7,7 @@ Go to the middle slot machine in the group of three and count five nodes below w
 
 ![Img1](https://github.com/user-attachments/assets/8be0460b-e016-4fc8-b607-9dc097bc61cf)
 
-When positioned correctly align your cursor to around the top and center of the leftmost handle. 
+When positioned correctly, align your cursor to around the top and center of the leftmost handle. 
 
 ![Img2](https://github.com/user-attachments/assets/acb1df93-8992-497f-ad94-672e6a9dac16)
 
